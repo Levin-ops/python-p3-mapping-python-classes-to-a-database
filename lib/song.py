@@ -16,7 +16,6 @@ class Song:
             )
         """
 
-
         CURSOR.execute(sql)
 
 
